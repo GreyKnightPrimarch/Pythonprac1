@@ -15,7 +15,7 @@ fave_food1 = "sushi"
 fave_food2 = "pizza"
 eats = f'I love to eat {f"{fave_food1}"} and {f"{fave_food2}"}.'
 print(eats)
-pi = 3.14151829573
+pi = 3.141518295732
 txt1 = "My name is {fname}, I'm {age}".format(fname = "John", age = 36)
 string = f'{"%.4f"%pi:<10}'+"end"
 print(txt1) # with .format()
